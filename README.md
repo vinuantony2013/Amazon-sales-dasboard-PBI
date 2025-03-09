@@ -38,7 +38,7 @@ This project is a **Power BI dashboard** that provides insights into Amazon sale
 ## Author
 Vincent S  
 vincentantony000@gmail.co
-[Your LinkedIn/GitHub Profile]
+https://github.com/vinuantony2013
 
 ## License
 This project is licensed under the MIT License.
